@@ -24,10 +24,12 @@ As a graduate in Urban Development Management from the University of Tehran, I a
 ## Education
 **M.Sc. Urban Development Management** — *University of Tehran* (2022–2025)  
 GPA: ***18.85/20** (**4 of 4**) - Thesis grade: **Very Good***
+
 Thesis: *Exploring the decision-making process in Iran's urban management and its long-term consequences according to the principles of environmental justice. Case study: Miankale Petrochemical Project*  
 
 **B.Sc. Urban Planning** — *Pars University of Architecture and Art* (2018–2022)  
 GPA: ***18.60/20** (**3.89 of 4**), Thesis grade: **20/20***
+
 Thesis: *Crisis management and resilience of the city during the epidemic (Covid-19)*  
 
 ---
