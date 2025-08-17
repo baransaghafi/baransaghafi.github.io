@@ -17,7 +17,7 @@ Urban Planning and Management Researcher · Tehran, Iran
 ---
 
 ## Summary
-As a graduate in Urban Development Management from the University of Tehran, I am passionate about exploring the intersection of urban planning and environmental sustainability. In my role as a teaching assistant at Tehran University, I have leveraged my expertise in both quantitative and qualitative methodologies to support academic growth and enhance the learning experience. Proficient in essential software tools such as GIS Pro and R, I am committed to applying innovative solutions to urban challenges. My strong interest in environmental issues drives me to actively engage with pressing concerns and contribute to sustainable urban development initiatives.
+Urban development management graduate with research interests in **environmental justice, sustainability, climate change, smart cities, resilience, and data analysis**. Experienced in both academic research and professional practice, with strong technical skills in GIS, R, Python, and urban management tools.
 
 ---
 
