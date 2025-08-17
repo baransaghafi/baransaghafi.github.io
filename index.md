@@ -29,7 +29,7 @@ Thesis: *Exploring the decision-making process in Iran's urban management and it
 
 **B.Sc. Urban Planning** — *Pars University of Architecture and Art* (2018–2022)  
 Thesis: *Crisis management and resilience of the city during the epidemic (Covid-19)*  
-- **GPA: 18.60/20 (3.89 of 4), Thesis grade: 20/20**
+- **GPA: 18.60/20 (3.89 of 4), Thesis grade: 19/20**
 
 ---
 
