@@ -8,6 +8,8 @@ layout: default
 Urban Planning and Management Researcher · Tehran, Iran  
 
 ![Baran Saghafi](baran.jpg){:style="width:150px; border-radius:50%;"}
+<a href="files/CV.pdf" download>Download CV</a>
+
 
 📧 [baransaghafiii@gmail.com](mailto:baransaghafiii@gmail.com) · [baransaghafi@ut.ac.ir](mailto:baransaghafi@ut.ac.ir)  
 🔗 [LinkedIn](https://www.linkedin.com/in/baran-saghafi-3a6306245/) · [GitHub](https://github.com/baransaghafi)  
