@@ -60,16 +60,18 @@ Thesis: *Crisis management and resilience of the city during the epidemic (Covid
 ---
 
 ## Service Activity
-**Member** — Students’ Scientific Association of Urban Management, University of Tehran (2022–2024)  
+**Member of students’ scientific association of urban management**, University of Tehran (2022–2024)  
 - Coordinated outreach programs on urban sustainability and organized academic events.  
 
 ---
 
 ## Publications
-1. *Review of Urban HSE and Crisis Management: Creating Resilient Green Cities in the Age of Pandemics* — Univ. of Tehran, 2024. [Link](https://civilica.com/doc/2129324/)  
-2. *Analysis of permeable and impermeable surfaces: Case study Tehran District 7* — Univ. of Tehran, 2024. [Link](https://civilica.com/doc/2192147/)  
-3. *Crisis management and resilience of the city during the epidemic (Covid-19)* — in preparation.  
-4. *Exploring decision-making process in urban management and environmental justice: Miankale Petrochemical Project* — in preparation.  
+1. *Review of Urban HSE and Crisis Management: Creating Resilient Green Cities in the Age of Pandemics* — **B. Saghafi**, F. Abbasi, First national conference of urban environment, University of Tehran, 2024. [Link](https://civilica.com/doc/2129324/)  
+2. *Analysis of permeable and impermeable surfaces: Case study Tehran District 7* — **B. Saghafi**, F. Abbasi, First national conference of urban environment, University of Tehran, 2024. [Link](https://civilica.com/doc/2192147/)  
+3. *Crisis management and resilience of the city during the epidemic (Covid-19)* — **B. Saghafi**, in preparation.  
+4. *Exploring decision-making process in urban management and environmental justice: Miankale Petrochemical Project* — **B. Saghafi**, N. Moayerian, in preparation.  
+5. *Feasibility Study of Utilizing Solar Energy Production Systems in Urban Public Spaces to Generate Sustainable Revenue for Municipalities (Case Study: District 6 of Tehran)* **B. Saghafi**, P. Sahraee, in preparation.  
+6. “Designing Agrivoltaic Solar Energy Networks in Synergy with Urban Infrastructure; Case Study: Underutilized Spaces in the South of Karaj” P. Sahraee, **B. Saghafi**, (in preparation)
 
 ---
 
