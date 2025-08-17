@@ -24,26 +24,38 @@ As a graduate in Urban Development Management from the University of Tehran, I a
 ## Education
 **M.Sc. Urban Development Management** — *University of Tehran* (2022–2025)  
 Thesis: *Exploring the decision-making process in Iran's urban management and its long-term consequences according to the principles of environmental justice. Case study: Miankale Petrochemical Project*  
-- **GPA:** ***18.85/20** (**4 of 4**) - Thesis grade: **Very Good***
+- **GPA: 18.85/20 (4 of 4) - Thesis grade: Very Good**
 
 
 **B.Sc. Urban Planning** — *Pars University of Architecture and Art* (2018–2022)  
 Thesis: *Crisis management and resilience of the city during the epidemic (Covid-19)*  
-- **GPA:** ***18.60/20** (**3.89 of 4**), Thesis grade: **20/20***
+- **GPA: 18.60/20 (3.89 of 4), Thesis grade: 20/20**
 
 ---
 
 ## Work Experience
 **Teaching Assistant** — University of Tehran (2024–Present)  
-- Coordinated and invigilated examinations, graded projects, and supported student learning.  
-- Facilitated discussions, prepared materials, and organized field trips.  
+*During the current academic year, I have served as a teaching assistant to Dr. Mosleh for both graduate and undergraduate urbanism students.*
+- Coordinated and invigilated examinations, graded exams, and assessed final projects.
+-  Evaluated assignments and provided feedback to enhance student learning.
+-  Facilitated classroom discussions and promoted student engagement.
+-  Developed supplementary materials to support diverse learning styles.
+-  Offered one-on-one academic support to students.
+-  Organized and supervised field trips to complement classroom learning.
 
-**Facilitator** — SAP Consulting Engineers Co. (2024)  
-- Led community engagement initiatives and collaborated with government organizations.  
-- Conducted zoning and demographic analysis; updated land use and GIS data.  
+**Facilitator** — Consulting Engineers Co.Sabz andish payesh (SAP) (2024)  
+- Community-Led engagement initiatives for local development projects.
+- Collaborated with government and organizations on development efforts.
+- Analyzed zoning regulations and demographic data for planning.
+  - Field reaserch about the changing in landuse and neighborhood needs
+  - Update landuse and roads GIS data of the neighborhood
+  
 
 **Teaching Assistant** — Pars University of Architecture and Art (2019–2022)  
-- Assisted urbanism courses, graded assignments, and led workshops.  
+- Managing agenda of undergraduate student (Urbanism students) research program in different subjects
+ -  Such as: all workshops, urban planning, urban designed, regional planning, Research Methodology and etc.
+- Grading Class assignments
+- Led 1 class in different courses (42 students)
 
 ---
 
