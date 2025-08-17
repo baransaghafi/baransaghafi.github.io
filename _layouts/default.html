@@ -1,1 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/mini.css/3.0.1/mini-default.min.css">
+  <style>
+    body { max-width: 800px; margin: auto; padding: 20px; font-family: Arial, sans-serif; }
+    header { text-align: center; margin-bottom: 40px; }
+    header img { border-radius: 50%; width: 150px; height: 150px; }
+    .contact a { margin: 0 10px; text-decoration: none; }
+    footer { text-align: center; margin-top: 50px; font-size: 0.9em; color: #555; }
+  </style>
+</head>
+<body>
+
+  <header>
+    <img src="{{ site.logo }}" alt="{{ site.title }}">
+    <h1>{{ site.title }}</h1>
+    <p>{{ site.description }}</p>
+    <div class="contact">
+      📧 <a href="mailto:{{ site.email }}">{{ site.email }}</a> ·
+      📱 <a href="tel:{{ site.phone }}">{{ site.phone }}</a><br>
+      {% if site.social %}
+        {% if site.social.linkedin %}🔗 <a href="{{ site.social.linkedin }}">LinkedIn</a> {% endif %}
+        {% if site.social.github %}· <a href="{{ site.social.github }}">GitHub</a>{% endif %}
+      {% endif %}
+    </div>
+  </header>
+
+  <main>
+    {{ content }}
+  </main>
+
+  <footer>
+    &copy; {{ "now" | date: "%Y" }} {{ site.title }}. All rights reserved.
+  </footer>
+
+</body>
+</html>
 
