@@ -1,6 +1,6 @@
 title: "Baran Saghafi CV"
 description: "Urban Planning and Management Researcher"
 theme: jekyll-theme-minimal
-logo: baran.jpg
+logo: /images/baran.jpg
 show_downloads: true       # adds a download CV button
 google_analytics:          # if later you want stats
