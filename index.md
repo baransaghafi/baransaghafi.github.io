@@ -22,19 +22,19 @@ Urban development management graduate with research interests in **environmental
 ---
 
 ## Education
-**M.Sc. Urban Development Management** — *University of Tehran* (2022–2025)  
+**M.Sc. Urban Development Management** — *University of Tehran* (Sep 2022 - Feb 2025)  
 Thesis: *Exploring the decision-making process in Iran's urban management and its long-term consequences according to the principles of environmental justice. Case study: Miankale Petrochemical Project*  
 - **GPA: 18.85/20 (4 of 4) - Thesis grade: Very Good (4 of 4)**
 
 
-**B.Sc. Urban Planning** — *Pars University of Architecture and Art* (2018–2022)  
+**B.Sc. Urban Planning** — *Pars University of Architecture and Art* (Sep 2018 - Aug 2022)  
 Thesis: *Crisis management and resilience of the city during the epidemic (Covid-19)*  
 - **GPA: 18.60/20 (3.89 of 4), Thesis grade: 19/20 (4 of 4)**
 
 ---
 
 ## Work Experience
-**Teaching Assistant** — University of Tehran (2024–Present)  
+**Teaching Assistant** — University of Tehran (Sep 2024- Present)  
 *During the current academic year, I have served as a teaching assistant to Dr. Mosleh for both graduate and undergraduate urbanism students.*
 - Coordinated and invigilated examinations, graded exams, and assessed final projects.
 -  Evaluated assignments and provided feedback to enhance student learning.
@@ -43,7 +43,7 @@ Thesis: *Crisis management and resilience of the city during the epidemic (Covid
 -  Offered one-on-one academic support to students.
 -  Organized and supervised field trips to complement classroom learning.
 
-**Facilitator** — Consulting Engineers Co.Sabz andish payesh (SAP) (2024)  
+**Facilitator** — Consulting Engineers Co.Sabz andish payesh (SAP) (Mar 2024 – May 2024)  
 - Community-Led engagement initiatives for local development projects.
 - Collaborated with government and organizations on development efforts.
 - Analyzed zoning regulations and demographic data for planning.
@@ -51,7 +51,7 @@ Thesis: *Crisis management and resilience of the city during the epidemic (Covid
   - Update landuse and roads GIS data of the neighborhood
   
 
-**Teaching Assistant** — Pars University of Architecture and Art (2019–2022)  
+**Teaching Assistant** — Pars University of Architecture and Art (Dec 2019 – Aug 2022)  
 - Managing agenda of undergraduate student (Urbanism students) research program in different subjects
   - Such as: all workshops, urban planning, urban designed, regional planning, Research Methodology and etc.
 - Grading Class assignments
@@ -60,7 +60,7 @@ Thesis: *Crisis management and resilience of the city during the epidemic (Covid
 ---
 
 ## Service Activity
-**Member of students’ scientific association of urban management**, University of Tehran (2022–2024)  
+**Member of students’ scientific association of urban management**, University of Tehran (Oct 2022 – Aug 2024)  
 - Coordinated outreach programs on urban sustainability and organized academic events.  
 
 ---
@@ -76,11 +76,11 @@ Thesis: *Crisis management and resilience of the city during the epidemic (Covid
 ---
 
 ## Coursework
-- Cartography (ESRI) — 2024  
-- R Programming in Urban Planning (UT) — 2024  
-- WebGIS (ESRI) — 2024  
-- CityEngine (SBU) — 2025  
-- Python for GIS (UT) — 2025  
+- Cartography (ESRI) — May – June 2024  
+- R Programming in Urban Planning (UT) — April 2024  
+- WebGIS (ESRI) — April 2024  
+- CityEngine (SBU) — June - Sep 2025  
+- Python for GIS (UT) — Aug 2025  
 
 ---
 
