@@ -1,6 +1,6 @@
 ---
 title: "Baran Saghafi"
-(baran.jpg){:style="width:150px; border-radius:50%;"}
+layout: default
 
 ---
 
