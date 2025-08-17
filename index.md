@@ -71,7 +71,7 @@ Thesis: *Crisis management and resilience of the city during the epidemic (Covid
 3. *Crisis management and resilience of the city during the epidemic (Covid-19)* — **B. Saghafi**, in preparation.  
 4. *Exploring decision-making process in urban management and environmental justice: Miankale Petrochemical Project* — **B. Saghafi**, N. Moayerian, in preparation.  
 5. *Feasibility Study of Utilizing Solar Energy Production Systems in Urban Public Spaces to Generate Sustainable Revenue for Municipalities (Case Study: District 6 of Tehran)* **B. Saghafi**, P. Sahraee, in preparation.  
-6. “Designing Agrivoltaic Solar Energy Networks in Synergy with Urban Infrastructure; Case Study: Underutilized Spaces in the South of Karaj” P. Sahraee, **B. Saghafi**, (in preparation)
+6. *Designing Agrivoltaic Solar Energy Networks in Synergy with Urban Infrastructure; Case Study: Underutilized Spaces in the South of Karaj* P. Sahraee, **B. Saghafi**, (in preparation)
 
 ---
 
