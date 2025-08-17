@@ -87,7 +87,7 @@ Thesis: *Crisis management and resilience of the city during the epidemic (Covid
 ## Technical Skills
 - GIS: ArcGIS, QGIS, WebGIS  
 - Programming: R, Python (GeoPandas, NumPy, ArcPy)  
-- Tools: MaxQDA, VOSviewer, MGWR, CityEngine, SPSS, AutoCAD, Revit, Photoshop, Super Decision, InVEST, ENVI, Fragstats, 
+- Tools: MaxQDA, VOSviewer, MGWR, CityEngine, SPSS, AutoCAD, Revit, Photoshop, Super Decision, InVEST, ENVI, Fragstats 
 - Microsoft Office & Project  
 
 ---
