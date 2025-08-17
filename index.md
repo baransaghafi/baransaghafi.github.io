@@ -117,8 +117,8 @@ Thesis: *Crisis management and resilience of the city during the epidemic (Covid
 ---
 
 ## References
-- Dr. Neda Moayerian — Assistant Professor, Univ. of Tehran ([Email](mailto:nedamoayerian@ut.ac.ir))  
-- Dr. Leila Mosleh — Assistant Professor, Univ. of Tehran ([Email](mailto:leilamosleh@gmail.com))  
-- Dr. Mojgan Taheri Tafti — Assistant Professor, Univ. of Tehran ([Email](mailto:m.tafti@ut.ac.ir))  
-- Dr. Farshad Nourian — Associate Professor, Univ. of Tehran ([Email](mailto:fnoorian@ut.ac.ir))  
-- Mahdi Suleimany — Researcher, Univ. of Tehran ([Email](mailto:mi.suleimany@ut.ac.ir))  
+- Dr. Neda Moayerian — Assistant Professor of Urban Planning, University of Tehran ([Email](mailto:nedamoayerian@ut.ac.ir))  
+- Dr. Leila Mosleh — Assistant Professor of Urban Planning, University of Tehran ([Email](mailto:leilamosleh@gmail.com))  
+- Dr. Mojgan Taheri Tafti — Assistant Professor of Urban Planning, University of Tehran ([Email](mailto:m.tafti@ut.ac.ir))  
+- Dr. Farshad Nourian — Associate Professor (Dean) of Urban Planning, University of Tehran ([Email](mailto:fnoorian@ut.ac.ir))  
+- Mahdi Suleimany — Researcher and Mentor of Urban Planning, University of Tehran ([Email](mailto:mi.suleimany@ut.ac.ir))  
