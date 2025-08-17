@@ -7,7 +7,6 @@ layout: default
 # Baran Saghafi
 Urban Planning and Management Researcher · Tehran, Iran  
 
-![Baran Saghafi](baran.jpg){:style="width:200px; border-radius:50%;"}
 
 
 📧 [baransaghafiii@gmail.com](mailto:baransaghafiii@gmail.com) · [baransaghafi@ut.ac.ir](mailto:baransaghafi@ut.ac.ir)  
