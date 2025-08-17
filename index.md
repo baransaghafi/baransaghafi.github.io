@@ -110,7 +110,7 @@ Thesis: *Crisis management and resilience of the city during the epidemic (Covid
 ---
 
 ## Languages
-- English — Full Professional Proficiency (IELTS 6.5)  
+- English — Full Professional Proficiency (**IELTS 6.5**)  
 - Persian — Native  
 - Japanese — Basic  
 
