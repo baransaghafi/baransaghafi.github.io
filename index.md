@@ -53,7 +53,7 @@ Thesis: *Crisis management and resilience of the city during the epidemic (Covid
 
 **Teaching Assistant** — Pars University of Architecture and Art (2019–2022)  
 - Managing agenda of undergraduate student (Urbanism students) research program in different subjects
- -  Such as: all workshops, urban planning, urban designed, regional planning, Research Methodology and etc.
+  - Such as: all workshops, urban planning, urban designed, regional planning, Research Methodology and etc.
 - Grading Class assignments
 - Led 1 class in different courses (42 students)
 
@@ -87,7 +87,7 @@ Thesis: *Crisis management and resilience of the city during the epidemic (Covid
 ## Technical Skills
 - GIS: ArcGIS, QGIS, WebGIS  
 - Programming: R, Python (GeoPandas, NumPy, ArcPy)  
-- Tools: MaxQDA, VOSviewer, MGWR, CityEngine, SPSS, AutoCAD, Revit, Photoshop  
+- Tools: MaxQDA, VOSviewer, MGWR, CityEngine, SPSS, AutoCAD, Revit, Photoshop, Super Decision, InVEST, ENVI, Fragstats, 
 - Microsoft Office & Project  
 
 ---
@@ -95,15 +95,17 @@ Thesis: *Crisis management and resilience of the city during the epidemic (Covid
 ## Personal Skills
 - Strong teamwork & communication  
 - Organization & time management  
-- Fast learner, adaptable under pressure  
-- Experience with both **quantitative** (AHP-ANP, regression, spatial analysis) and **qualitative** (thematic/content analysis, interviews) research methods  
+- Fast learner, adaptable under pressure, System Thinking
+- Commonly understood Writing skills
+- Experience with both **quantitative** (AHP-ANP, Spatial Regression, Spatial analysis, R and Python) and **qualitative** (Content Analysis, Thematic Analysis, semi-structured Interview and Documentary Analysis) research methods  
 
 ---
 
 ## Activities and Honors
-- Elite Student Award — Pars University of Architecture and Art (2022)  
-- Top 5 ranking student, B.Sc. Urban Planning (2022)  
-- Student representative & event organizer (2019–2022)  
+- Worked as a representative for undergraduate urbanism students, helping to organize events and activities (PU) (2019-2022)
+- Ranked as The Top 5 student amount 89 students in B.Sc. degree at Pars University of Architecture and Art (2022)
+- Worked as a member of scientific association of urban management at University of Tehran (UT) (2022-2024)
+- Worked as TA for graduate and undergraduate students at University of Tehran (UT) (2024) 
 
 ---
 
