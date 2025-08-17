@@ -1,3 +1,6 @@
 title: Your Name
 description: My CV site
 theme: jekyll-theme-minimal
+logo: /Baran-Saghafi.jpg   # if you want to add a photo
+show_downloads: true       # adds a download CV button
+google_analytics:          # if later you want stats
