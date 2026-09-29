@@ -17,7 +17,7 @@ Urban Planning and Management Researcher · Tehran, Iran
 ---
 
 ## Summary
-Urban development management graduate with research interests in **environmental justice, sustainability, climate change, smart cities, resilience, and data analysis**. Experienced in both academic research and professional practice, with strong technical skills in GIS, R, Python, and urban management tools.
+Urban development management graduate with interdisciplinary research interests in **urban planning, governance, environmental sustainability, climate change, environmental justice, resilience, and urban-environment relationships**. Experienced in academic research and professional practice, with skills in **qualitative and quantitative research, GIS, data analysis, and urban management**, and an interest in understanding complex urban challenges through interdisciplinary approaches.
 
 ---
 
@@ -146,4 +146,4 @@ Superviser: Alireza Ghahari
 - Dr. Neda Moayerian — Assistant Professor of Urban Planning, University of Tehran ([Email](mailto:nedamoayerian@ut.ac.ir))  
 - Dr. Leila Mosleh — Assistant Professor of Urban Planning, University of Tehran ([Email](mailto:leilamosleh@gmail.com))  
 - Dr. Mojgan Taheri Tafti — Assistant Professor of Urban Planning, University of Tehran ([Email](mailto:m.tafti@ut.ac.ir))  
-- Mahdi Suleimany — RResearcher and tutor of Urban Planning, University of Tehran; and Phd Student at Monash University ([Email](mailto:mi.suleimany@ut.ac.ir))  
+- Mahdi Suleimany — Researcher and tutor of Urban Planning, University of Tehran; and Phd Student at Monash University ([Email](mailto:mi.suleimany@ut.ac.ir))  
