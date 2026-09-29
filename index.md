@@ -17,7 +17,18 @@ Urban Planning Researcher | GIS, Spatial & Data Analysis · Tehran, Iran
 ---
 
 ## Summary
-Urban development management graduate with interdisciplinary research interests in **urban planning, governance, environmental sustainability, climate change, environmental justice, resilience, and urban-environment relationships**. Experienced in academic research and professional practice, with skills in **qualitative and quantitative research, GIS, data analysis, and urban management**, and an interest in understanding complex urban challenges through interdisciplinary approaches.
+**URBAN PLANNING & MANAGEMENT**
+Researcher with an interdisciplinary focus on **Urban Planning • Governance • Environmental Sustainability • Climate Change • Environmental Justice • Resilience**
+
+**GIS & SPATIAL ANALYSIS**
+Professional experience in **GIS • Spatial Analysis • Urban Data • Mapping • Decision-Support Methods**
+
+**RESEARCH & ANALYTICS**
+Experienced in **Qualitative & Quantitative Research • Data Analysis • MCDA • Academic & Applied Research**
+
+**URBAN & ENVIRONMENTAL PROJECTS**
+Experience across **Urban Planning • Environmental Management • Urban Water Management • Consulting & Professional Practice**
+
 
 ---
 
