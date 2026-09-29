@@ -34,8 +34,20 @@ Thesis: *Crisis management and resilience of the city during the epidemic (Covid
 ---
 
 ## Work Experience
-**Teaching Assistant** — University of Tehran (Sep 2024- Present)  
-*During the current academic year, I have served as a teaching assistant to Dr. Mosleh for both graduate and undergraduate urbanism students.*
+
+**Urban Expert & GIS Analyst** — Rah Shahr (Sep 2026 - Present)  
+- Conducted research and consulting projects in urban planning and environmental management using GIS, spatial analysis, and decision-support methods.
+- Prepared technical reports, spatial analyses, maps, and academic research outputs.
+
+**Freelance Urban Planning Researcher & GIS Analyst** (Apr 2025- Present)  
+- Conduct research and consulting projects in urban planning and environmental management.
+- Perform GIS, spatial, and decision-support analyses.
+- Prepare technical reports, maps, and academic research outputs.
+
+**Project Specialist** — Tehran TURPC (Jan 2026- Mar 2026)  
+- involved in a research project at the University of Tehran and Tehran TURPC on urban runoff management and water recycling, contributing through expert interviews and MCDA-based decision support.
+
+**Teaching Assistant** — University of Tehran (Sep 2024- Mar 2026)  
 - Coordinated and invigilated examinations, graded exams, and assessed final projects.
 -  Evaluated assignments and provided feedback to enhance student learning.
 -  Facilitated classroom discussions and promoted student engagement.
@@ -60,35 +72,46 @@ Thesis: *Crisis management and resilience of the city during the epidemic (Covid
 ---
 
 ## Service Activity
+**Secretary – Scientific Association of Urban Planning Engineering**, National Elites Foundation-Iran (April 2026 – Oct 2026)  
+- Coordinated scientific events, workshops, and educational programs.
+- Facilitated collaboration among students, researchers, and faculty members.
+- Supported research activities and programs under the National Elites Foundation.	
+ 
 **Member of students’ scientific association of urban management**, University of Tehran (Oct 2022 – Aug 2024)  
-- Coordinated outreach programs on urban sustainability and organized academic events.  
+- Assist in the coordination of community outreach programs aimed at raising awareness of urban issues and the importance of sustainable future.
+- Collaboration with faculty members about the recent problems of urbanism and urban management.
+- Participating in organizing and promoting academic events and workshops.
+ 
 
 ---
 
 ## Publications
 1. *Review of Urban HSE and Crisis Management: Creating Resilient Green Cities in the Age of Pandemics* — **B. Saghafi**, F. Abbasi, First national conference of urban environment, University of Tehran, 2024. [Link](https://civilica.com/doc/2129324/)  
-2. *Analysis of permeable and impermeable surfaces: Case study Tehran District 7* — **B. Saghafi**, F. Abbasi, First national conference of urban environment, University of Tehran, 2024. [Link](https://civilica.com/doc/2192147/)  
-3. *Crisis management and resilience of the city during the epidemic (Covid-19)* — **B. Saghafi**, in preparation.  
-4. *Exploring decision-making process in urban management and environmental justice: Miankale Petrochemical Project* — **B. Saghafi**, N. Moayerian, in preparation.  
-5. *Feasibility Study of Utilizing Solar Energy Production Systems in Urban Public Spaces to Generate Sustainable Revenue for Municipalities (Case Study: District 6 of Tehran)* **B. Saghafi**, P. Sahraee, in preparation.  
-6. *Designing Agrivoltaic Solar Energy Networks in Synergy with Urban Infrastructure; Case Study: Underutilized Spaces in the South of Karaj* P. Sahraee, **B. Saghafi**, (in preparation)
+2. *Analysis of permeable and impermeable surfaces: Case study Tehran District 7* — **B. Saghafi**, F. Abbasi, First national conference of urban environment, University of Tehran, 2024. [Link](https://civilica.com/doc/2192147/)
+3. *Analyzing the Capacity of the Iranian Legal System in Realizing Environmental Justice: The Gap Between Law and Implementation in the Amirabad Behshahr Project* — **B. Saghafi**, N. Moayerian, under review.
+4. *Environmental Justice in the Global South: A PRISMA-Based Systematic Review of Urban Environmental Inequalities, Governance Responses, and Knowledge Gaps* — **B. Saghafi**, N. Moayerian, in preparation.
 
 ---
 
 ## Coursework
 - Cartography (ESRI) — May – June 2024  
-- R Programming in Urban Planning (UT) — April 2024  
+- R Programming in Urban Planning (University of Tehran) — April 2024  
 - WebGIS (ESRI) — April 2024  
-- CityEngine (SBU) — June - Sep 2025  
-- Python for GIS (UT) — Aug 2025  
+- CityEngine (Shahid Beheshti University) — June - Sep 2025  
+- Python programming in GIS (University of Tehran) — Aug 2025
+- Urban Mining and Data Power (University of Tehran) — Sep 2025
+- Introduction and analysis of public data; with a look at its applications in economics and business (Sharif University of Technology) — Jan 2026
 
 ---
 
 ## Technical Skills
-- GIS: ArcGIS, QGIS, WebGIS  
-- Programming: R, Python (GeoPandas, NumPy, ArcPy)  
-- Tools: MaxQDA, VOSviewer, MGWR, CityEngine, SPSS, AutoCAD, Revit, Photoshop, Super Decision, InVEST, ENVI, Fragstats 
-- Microsoft Office & Project  
+- GIS: ArcGIS Pro, ArcGIS, QGIS, WebGIS, CityEngine
+-Data & Statistical Analysis: Python (GeoPandas, NumPy, ArcPy), R, SPSS, MGWR, Gephi 
+- Microsoft Office & Project
+- Research & Decision Support: MAXQDA, VOSviewer, Super Decisions
+- Design & Visualization: AutoCAD, Revit, Photoshop
+- Other: Microsoft Office, Microsoft Project
+
 
 ---
 
@@ -97,7 +120,7 @@ Thesis: *Crisis management and resilience of the city during the epidemic (Covid
 - Organization & time management  
 - Fast learner, adaptable under pressure, System Thinking
 - Commonly understood Writing skills
-- Experience with both **quantitative** (AHP-ANP, Spatial Regression, Spatial analysis, R and Python) and **qualitative** (Content Analysis, Thematic Analysis, semi-structured Interview and Documentary Analysis) research methods  
+- Experience with both **quantitative** (AHP-ANP, Spatial Regression, Spatial analysis, R and Python) and **qualitative** (Content Analysis, Thematic Analysis, semi-structured Interview and Documentary Analysis) research methods
 
 ---
 
@@ -105,14 +128,15 @@ Thesis: *Crisis management and resilience of the city during the epidemic (Covid
 - Worked as a representative for undergraduate urbanism students, helping to organize events and activities (PU) (2019-2022)
 - Ranked as The Top 5 student amount 89 students in B.Sc. degree at Pars University of Architecture and Art (2022)
 - Worked as a member of scientific association of urban management at University of Tehran (UT) (2022-2024)
-- Worked as TA for graduate and undergraduate students at University of Tehran (UT) (2024) 
+- Worked as TA for graduate and undergraduate students at University of Tehran (UT) (2024)
+- Worked as a Secretary of scientific association of Urban Planning Engineering at National Elites Foundation (Iran) (2026) Jan 2026
 
 ---
 
 ## Languages
 - English — Full Professional Proficiency (**IELTS 6.5**)  
-- Persian — Native  
-- Japanese — Basic  
+- Persian — Native
+- France — Basic  
 
 ---
 
@@ -120,5 +144,4 @@ Thesis: *Crisis management and resilience of the city during the epidemic (Covid
 - Dr. Neda Moayerian — Assistant Professor of Urban Planning, University of Tehran ([Email](mailto:nedamoayerian@ut.ac.ir))  
 - Dr. Leila Mosleh — Assistant Professor of Urban Planning, University of Tehran ([Email](mailto:leilamosleh@gmail.com))  
 - Dr. Mojgan Taheri Tafti — Assistant Professor of Urban Planning, University of Tehran ([Email](mailto:m.tafti@ut.ac.ir))  
-- Dr. Farshad Nourian — Associate Professor (Dean) of Urban Planning, University of Tehran ([Email](mailto:fnoorian@ut.ac.ir))  
-- Mahdi Suleimany — Researcher and Mentor of Urban Planning, University of Tehran ([Email](mailto:mi.suleimany@ut.ac.ir))  
+- Mahdi Suleimany — RResearcher and tutor of Urban Planning, University of Tehran; and Phd Student at Monash University ([Email](mailto:mi.suleimany@ut.ac.ir))  
