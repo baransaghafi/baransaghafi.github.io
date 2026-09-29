@@ -37,7 +37,7 @@ Superviser: Alireza Ghahari
 
 ## Work Experience
 
-**Urban Expert & GIS Analyst** — Rah Shahr (Sep 2026 - Present)  
+**Urban Expert & GIS Specialist** — Rah Shahr (Sep 2026 - Present)  
 - Conducted research and consulting projects in urban planning and environmental management using GIS, spatial analysis, and decision-support methods.
 - Prepared technical reports, spatial analyses, maps, and academic research outputs.
 
