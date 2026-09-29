@@ -5,7 +5,7 @@ layout: default
 ---
 
 # Baran Saghafi
-Urban Planning and Management Researcher · Tehran, Iran  
+Urban Planning Researcher | GIS, Spatial & Data Analysis · Tehran, Iran  
 
 
 
