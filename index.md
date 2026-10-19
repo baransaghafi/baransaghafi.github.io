@@ -18,7 +18,6 @@ Urban Expert & GIS Specialist at Rah Shahr · Tehran, Iran
 ---
 
 ## About Me
-
 I am an **Urban Development Management graduate from the University of Tehran** with an interdisciplinary background in urban planning, environmental governance, GIS, and spatial data analysis. My academic and professional work focuses on understanding how urban decision-making, institutional arrangements, and development processes shape environmental outcomes and urban sustainability.
 
 My research experience includes investigating urban management and environmental justice in Iran, with a particular focus on the Miankaleh Petrochemical Project. Through document and legal analysis, semi-structured interviews, and qualitative content and thematic analysis, I examined institutional responsibilities, stakeholder interests, public participation, and the long-term environmental and socio-economic implications of development decisions. My research has also addressed urban environmental challenges, including urban resilience, land-surface analysis, and sustainable urban development.
@@ -30,21 +29,27 @@ My methodological toolkit combines **qualitative and quantitative research, GIS-
 ---
 
 ## Research Interests
-**<u>URBAN PLANNING & MANAGEMENT</u>**
+My research interests lie at the intersection of urban planning, environmental governance, and data analytics, with a focus on understanding complex urban challenges and supporting evidence-based, equitable, and sustainable decision-making.
 
-Interdisciplinary research across <u>Urban Planning </u>• <u>Governance</u> • <u>Environmental Sustainability</u> • <u>Climate Change</u> • <u>Environmental Justice</u> • <u>Resilience</u>
+### 01 · Urban Governance & Decision-Making
+Institutional arrangements, urban management, public participation, stakeholder relationships, and power dynamics shaping urban development and public policy.
 
-**<u>GIS & SPATIAL ANALYSIS</u>**
+### 02 · Environmental Justice & Sustainability
+Environmental inequalities, distributive and procedural justice, environmental governance, and the social and ecological consequences of urban development decisions.
 
-Professional experience in <u>GIS</u> • <u>Spatial Analysis</u> • <u>Urban Data</u> • <u>Mapping</u> • <u>Decision-Support Methods</u>
+### 03 · Urban Climate Resilience & Environmental Change
+Climate change adaptation, urban resilience, urban ecosystems, and the relationship between urban development and environmental processes.
 
-**<u>RESEARCH & DATA ANALYTICS</u>**
+### 04 · GIS, Spatial Analysis & Urban Data
+GIS-based research, spatial modelling, urban environmental analysis, and the use of geospatial data to investigate urban patterns, inequalities, and environmental challenges.
 
-Experienced in <u>Qualitative & Quantitative Research</u> • <u>Data Analysis</u> • <u>R</u> • <u>Python</u> • <u>MCDA</u> • <u>Academic & Applied Research**
+### 05 · Data Analysis & Quantitative Research
+Data-driven research, statistical analysis, spatial statistics, quantitative methods, and the application of tools such as R and Python to analyse urban and environmental data and identify meaningful patterns.
 
-**<u>URBAN & ENVIRONMENTAL PROJECTS</u>**
+### 06 · Evidence-Based Planning & Research Methods
+Qualitative and quantitative research, policy and document analysis, thematic analysis, and multi-criteria decision analysis (MCDA) to integrate empirical evidence into urban planning and management.
 
-Experience in <u>Urban Planning</u> • <u>Environmental Management</u> • <u>Urban Water Management</u> • <u>Consulting</u> • <u>Professional Practice</u>
+**Cross-cutting focus:** Integrating urban governance, environmental research, GIS, and data analytics to understand complex urban challenges and inform more equitable and sustainable decisions.
 
 ---
 
@@ -62,41 +67,66 @@ Superviser: Alireza Ghahari
 
 ---
 
+
 ## Work Experience
 
-**Urban Expert & GIS Specialist** — Rah Shahr (Sep 2026 - Present)  
-- Conducted research and consulting projects in urban planning and environmental management using GIS, spatial analysis, and decision-support methods.
-- Prepared technical reports, spatial analyses, maps, and academic research outputs.
+### **Urban Expert & GIS Specialist** — SAM Rah Shahr, Rah Shahr International Group
+*Sep 2026 – Present*
+- Contribute to urban planning and environmental management projects within SAM Rah Shahr, part of the multidisciplinary Rah Shahr International Group.
+- Conduct GIS-based spatial analysis and geospatial assessments to support urban planning, environmental studies, and evidence-based decision-making.
+- Prepare thematic maps, spatial datasets, technical reports, and research outputs for urban and environmental projects.
+- Contribute to applied research and consulting activities at the intersection of urban development, environmental management, and spatial analysis.
+- Integrate geospatial information and research findings into technical assessments and planning-related deliverables.
 
-**Freelance Urban Planning Researcher & GIS Analyst** (Apr 2025- Present)  
-- Conduct research and consulting projects in urban planning and environmental management.
-- Perform GIS, spatial, and decision-support analyses.
-- Prepare technical reports, maps, and academic research outputs.
+### **Freelance Urban Planning Researcher, GIS & Data Analyst**
+*Apr 2025 – Present*
+- Conduct independent research and analytical projects in urban planning, urban management, and environmental studies, integrating spatial analysis and data-driven research methods.
+- Analyse urban and spatial datasets to identify patterns, trends, spatial relationships, and planning-related challenges.
+- Apply statistical analysis and spatial regression techniques, including geographically weighted approaches such as MGWR, to investigate spatial variations and relationships in urban data.
+- Use Python and R for data processing, statistical analysis, exploratory data analysis, and research workflows.
+- Perform GIS-based spatial analysis, geospatial data processing, and thematic mapping to examine land-use patterns, urban characteristics, and environmental conditions.
+- Apply quantitative research methods to support evidence-based urban planning and decision-making.
+- Integrate quantitative findings with qualitative research, literature reviews, and documentary analysis where appropriate.
+- Prepare technical reports, analytical summaries, thematic maps, and research outputs for academic and professional projects.
+- Translate analytical results into practical insights relevant to urban planning, environmental management, and policy development.
 
-**Project Specialist** — Tehran TURPC (Jan 2026- Mar 2026)  
-- involved in a research project at the University of Tehran and Tehran TURPC on urban runoff management and water recycling, contributing through expert interviews and MCDA-based decision support.
+### **Project Specialist** — Tehran TURPC
+*Jan 2026 – Mar 2026*
+- Contributed to a collaborative research project involving the University of Tehran and Tehran TURPC focused on urban runoff management, water treatment, and urban water recycling.
+- Conducted semi-structured interviews with experts to gather professional insights and identify key considerations for urban water management.
+- Supported the development of a multi-criteria decision analysis (MCDA) framework to assess alternatives and inform decision-making.
+- Contributed to organizing and analysing expert input to support the evaluation of urban water management strategies.
+- Participated in research activities connecting urban infrastructure, environmental management, and sustainable water resource practices.
 
-**Teaching Assistant** — University of Tehran (Sep 2024- Mar 2026)  
-- Coordinated and invigilated examinations, graded exams, and assessed final projects.
--  Evaluated assignments and provided feedback to enhance student learning.
--  Facilitated classroom discussions and promoted student engagement.
--  Developed supplementary materials to support diverse learning styles.
--  Offered one-on-one academic support to students.
--  Organized and supervised field trips to complement classroom learning.
+### **Teaching Assistant** — University of Tehran
+*Sep 2024 – Mar 2026*
+- Supported undergraduate and postgraduate teaching activities in urban planning and related fields, assisting instructors with course delivery and student learning.
+- Evaluated assignments and coursework, provided constructive feedback, and supported students in improving their analytical and academic writing skills.
+- Coordinated and invigilated examinations, graded exam papers, and contributed to the assessment of final projects.
+- Facilitated classroom discussions and encouraged student engagement with urban, environmental, and management-related concepts.
+- Prepared supplementary learning materials and provided individual academic guidance to students.
+- Assisted in organizing and supervising educational field trips to connect theoretical concepts with real-world urban environments.
+- Supported instructors in course organization, communicating academic requirements, and managing teaching-related activities.
 
-**Facilitator** — Consulting Engineers Co.Sabz andish payesh (SAP) (Mar 2024 – May 2024)  
-- Community-Led engagement initiatives for local development projects.
-- Collaborated with government and organizations on development efforts.
-- Analyzed zoning regulations and demographic data for planning.
-  - Field reaserch about the changing in landuse and neighborhood needs
-  - Update landuse and roads GIS data of the neighborhood
-  
+### **Facilitator** — Sabz Andish Payesh Consulting Engineers (SAP)
+*Mar 2024 – May 2024*
+- Supported community-led engagement initiatives for local development and neighborhood improvement projects.
+- Contributed to collaboration among local communities, government bodies, and other stakeholders involved in urban development activities.
+- Conducted field research to investigate land-use changes, neighborhood characteristics, and local needs relevant to planning interventions.
+- Analysed zoning regulations and demographic information to support the assessment of local development conditions.
+- Updated GIS datasets related to neighborhood land use and road networks to improve spatial information available for planning.
+- Integrated field observations, spatial data, and community perspectives into local planning activities.
 
-**Teaching Assistant** — Pars University of Architecture and Art (Dec 2019 – Aug 2022)  
-- Managing agenda of undergraduate student (Urbanism students) research program in different subjects
-  - Such as: all workshops, urban planning, urban designed, regional planning, Research Methodology and etc.
-- Grading Class assignments
-- Led 1 class in different courses (42 students)
+### **Teaching Assistant** — Pars University of Architecture and Art
+*Dec 2019 – Aug 2022*
+
+- Assisted with the coordination and implementation of undergraduate educational and research activities for urban planning and urbanism students.
+- Supported teaching activities across urban planning, urban design, regional planning, design workshops, and research methodology.
+- Helped students understand course concepts, develop project ideas, and apply planning and design principles to academic assignments.
+- Evaluated class assignments and supported the assessment of student learning and project progress.
+- Led class sessions in different courses, engaging with groups of up to 42 students.
+- Assisted instructors with course organization, learning activities, and the delivery of academic materials.
+
 
 ---
 
