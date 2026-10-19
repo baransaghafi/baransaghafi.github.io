@@ -53,20 +53,6 @@ Qualitative and quantitative research, policy and document analysis, thematic an
 
 ---
 
-## Education
-**M.Sc. Urban Development Management** — *University of Tehran* (Sep 2022 - Feb 2025)  
-Thesis: *Exploring the decision-making process in Iran's urban management and its long-term consequences according to the principles of environmental justice. Case study: Miankale Petrochemical Project*  
-- **GPA: 18.85/20 (4 of 4) - Thesis grade: Very Good**
-Superviser: Neda Moayerian
-
-
-**B.Sc. Urban Planning** — *Pars University of Architecture and Art* (Sep 2018 - Aug 2022)  
-Thesis: *Crisis management and resilience of the city during the epidemic (Covid-19)*  
-- **GPA: 18.60/20 (3.89 of 4), Thesis grade: 19/20**
-Superviser: Alireza Ghahari 
-
----
-
 
 ## Work Experience
 
@@ -130,23 +116,17 @@ Superviser: Alireza Ghahari
 
 ---
 
+## Education
+**M.Sc. Urban Development Management** — *University of Tehran* (Sep 2022 - Feb 2025)  
+Thesis: *Exploring the decision-making process in Iran's urban management and its long-term consequences according to the principles of environmental justice. Case study: Miankale Petrochemical Project*  
+- **GPA: 18.85/20 (4 of 4) - Thesis grade: Very Good**
+Superviser: Neda Moayerian
 
-## Service Activity
 
-### **Secretary** — Scientific Association of Urban Planning Engineering, National Elites Foundation, Iran *Apr 2026 – Oct 2026*
-
-- Coordinated scientific and educational activities related to urban planning and urban development.
-- Supported the planning and organization of academic events, workshops, and educational programmes for students and early-career researchers.
-- Facilitated communication and collaboration among students, researchers, and academic staff to support knowledge exchange and professional engagement.
-- Contributed to the coordination of research-oriented initiatives and activities under the National Elites Foundation.
-- Supported initiatives aimed at strengthening academic participation and promoting knowledge sharing within the urban planning community.
-
-### **Member** — Students’ Scientific Association of Urban Management, University of Tehran *Oct 2022 – Aug 2024*
-
-- Participated in academic and scientific activities related to urban management, planning, and sustainable urban development.
-- Collaborated with fellow students and faculty members in supporting academic events, workshops, and educational programmes.
-- Assisted in coordinating student-oriented initiatives and activities that encouraged academic engagement and knowledge exchange.
-- Contributed to the promotion of research activities and the dissemination of knowledge within the university community.
+**B.Sc. Urban Planning** — *Pars University of Architecture and Art* (Sep 2018 - Aug 2022)  
+Thesis: *Crisis management and resilience of the city during the epidemic (Covid-19)*  
+- **GPA: 18.60/20 (3.89 of 4), Thesis grade: 19/20**
+Superviser: Alireza Ghahari 
 
 ---
 
@@ -155,6 +135,25 @@ Superviser: Alireza Ghahari
 2. *Analysis of permeable and impermeable surfaces: Case study Tehran District 7* — **B. Saghafi**, F. Abbasi, First national conference of urban environment, University of Tehran, 2024. [Link](https://civilica.com/doc/2192147/)
 3. *Analyzing the Capacity of the Iranian Legal System in Realizing Environmental Justice: The Gap Between Law and Implementation in the Amirabad Behshahr Project* — **B. Saghafi**, N. Moayerian, under review.
 4. *Environmental Justice in the Global South: A PRISMA-Based Systematic Review of Urban Environmental Inequalities, Governance Responses, and Knowledge Gaps* — **B. Saghafi**, N. Moayerian, in preparation.
+
+---
+## Service Activity
+### **Secretary** — Scientific Association of Urban Planning Engineering, National Elites Foundation, Iran
+*Apr 2026 – Oct 2026*
+
+- Coordinated scientific and educational activities related to urban planning and urban development.
+- Supported the planning and organization of academic events, workshops, and educational programmes for students and early-career researchers.
+- Facilitated communication and collaboration among students, researchers, and academic staff to support knowledge exchange and professional engagement.
+- Contributed to the coordination of research-oriented initiatives and activities under the National Elites Foundation.
+- Supported initiatives aimed at strengthening academic participation and promoting knowledge sharing within the urban planning community.
+
+### **Member** — Students’ Scientific Association of Urban Management, University of Tehran
+*Oct 2022 – Aug 2024*
+
+- Participated in academic and scientific activities related to urban management, planning, and sustainable urban development.
+- Collaborated with fellow students and faculty members in supporting academic events, workshops, and educational programmes.
+- Assisted in coordinating student-oriented initiatives and activities that encouraged academic engagement and knowledge exchange.
+- Contributed to the promotion of research activities and the dissemination of knowledge within the university community.
 
 ---
 
@@ -170,31 +169,57 @@ Superviser: Alireza Ghahari
 ---
 
 ## Technical Skills
-- GIS: ArcGIS Pro, ArcGIS, QGIS, WebGIS, CityEngine
--Data & Statistical Analysis: Python (GeoPandas, NumPy, ArcPy), R, SPSS, MGWR, Gephi 
-- Microsoft Office & Project
-- Research & Decision Support: MAXQDA, VOSviewer, Super Decisions
-- Design & Visualization: AutoCAD, Revit, Photoshop
-- Other: Microsoft Office, Microsoft Project
+### GIS & Geospatial Analysis
+- **GIS Software:** ArcGIS Pro, ArcGIS, QGIS, WebGIS
+- **3D Urban Modelling:** CityEngine
+- **Spatial Analysis:** Spatial data processing, geospatial analysis, thematic mapping, and spatial modelling
 
+### Data Analysis & Programming
+- **Programming Languages:** Python, R
+- **Python Libraries & Tools:** GeoPandas, NumPy, ArcPy
+- **Statistical & Spatial Analysis:** SPSS, MGWR, spatial regression, exploratory data analysis, and quantitative analysis
+- **Network Analysis:** Gephi
+
+### Research & Decision-Support Tools
+- **Qualitative Data Analysis:** MAXQDA
+- **Literature Review & Research Mapping:** VOSviewer
+- **Multi-Criteria Decision Analysis (MCDA):** Super Decisions, AHP, ANP
+
+### Research Methods
+- **Quantitative Methods:** Statistical analysis, spatial regression, spatial analysis, and multi-criteria decision analysis
+- **Qualitative Methods:** Content analysis, thematic analysis, semi-structured interviews, and documentary analysis
+- **Applied Research:** Literature reviews, policy and document analysis, and evidence-based urban planning
+
+### Design, Visualization & Productivity
+- **Design & Technical Drawing:** AutoCAD, Revit, Photoshop
+- **Office & Project Management:** Microsoft Office, Microsoft Project
 
 ---
 
 ## Personal Skills
-- Strong teamwork & communication  
-- Organization & time management  
-- Fast learner, adaptable under pressure, System Thinking
-- Commonly understood Writing skills
-- Experience with both **quantitative** (AHP-ANP, Spatial Regression, Spatial analysis, R and Python) and **qualitative** (Content Analysis, Thematic Analysis, semi-structured Interview and Documentary Analysis) research methods
+- **Analytical Thinking:** Ability to interpret complex information, identify patterns, and approach urban and environmental challenges systematically.
+- **Research & Problem-Solving:** Experience combining qualitative, quantitative, and spatial methods to investigate research questions and support informed decisions.
+- **Communication & Collaboration:** Experience working with students, academic staff, experts, and project stakeholders.
+- **Organization & Time Management:** Ability to coordinate academic activities, manage research tasks, and work across multiple responsibilities.
+- **Adaptability & Learning:** Willingness to learn new methods, tools, and approaches in interdisciplinary research and professional environments.
+- **Scientific Writing & Reporting:** Experience preparing academic research, technical reports, analytical summaries, and research outputs.
+- **Systems Thinking:** Ability to examine relationships among urban development, governance, environmental processes, and socio-economic factors.
 
 ---
 
+
 ## Activities and Honors
-- Worked as a representative for undergraduate urbanism students, helping to organize events and activities (PU) (2019-2022)
-- Ranked as The Top 5 student amount 89 students in B.Sc. degree at Pars University of Architecture and Art (2022)
-- Worked as a member of scientific association of urban management at University of Tehran (UT) (2022-2024)
-- Worked as TA for graduate and undergraduate students at University of Tehran (UT) (2024)
-- Worked as a Secretary of scientific association of Urban Planning Engineering at National Elites Foundation (Iran) (2026) Jan 2026
+### Academic Honors
+- **Top 5 Student in B.Sc. Urban Planning** — Pars University of Architecture and Art, ranked among 5 top-performing students out of 89 students in the undergraduate programme (2022).
+
+### Academic Leadership & Service
+- **Secretary** — Scientific Association of Urban Planning Engineering, National Elites Foundation, Iran (2026).
+- **Member** — Students’ Scientific Association of Urban Management, University of Tehran (2022–2024).
+- **Undergraduate Student Representative** — Urbanism Programme, Pars University of Architecture and Art; supported student representation and helped coordinate academic activities and events (2019–2022).
+
+### Academic & Teaching Experience
+- **Teaching Assistant** — University of Tehran; supported undergraduate and postgraduate teaching, coursework, and academic activities (2024–2026).
+
 
 ---
 
