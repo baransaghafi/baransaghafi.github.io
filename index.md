@@ -31,8 +31,7 @@ Experienced in <u>Qualitative & Quantitative Research</u> • <u>Data Analysis</
 
 **<u>URBAN & ENVIRONMENTAL PROJECTS</u>**
 
-<u>Experience in Urban Planning</u> • <u>Environmental Management</u> • <u>Urban Water Management</u> • <u>Consulting</u> • <u>Professional Practice</u>
----
+Experience in <u>Urban Planning</u> • <u>Environmental Management</u> • <u>Urban Water Management</u> • <u>Consulting</u> • <u>Professional Practice</u>
 
 ## Education
 **M.Sc. Urban Development Management** — *University of Tehran* (Sep 2022 - Feb 2025)  
