@@ -33,6 +33,8 @@ Experienced in <u>Qualitative & Quantitative Research</u> • <u>Data Analysis</
 
 Experience in <u>Urban Planning</u> • <u>Environmental Management</u> • <u>Urban Water Management</u> • <u>Consulting</u> • <u>Professional Practice</u>
 
+---
+
 ## Education
 **M.Sc. Urban Development Management** — *University of Tehran* (Sep 2022 - Feb 2025)  
 Thesis: *Exploring the decision-making process in Iran's urban management and its long-term consequences according to the principles of environmental justice. Case study: Miankale Petrochemical Project*  
