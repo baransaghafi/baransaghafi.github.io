@@ -5,7 +5,8 @@ layout: default
 ---
 
 # Baran Saghafi
-Urban Planning Researcher | GIS, Spatial & Data Analysis · Tehran, Iran  
+Urban Expert & GIS Specialist at Rah Shahr · Tehran, Iran
+ 
 
 
 
@@ -16,7 +17,7 @@ Urban Planning Researcher | GIS, Spatial & Data Analysis · Tehran, Iran
 
 ---
 
-## Summary
+## Research Interests
 **<u>URBAN PLANNING & MANAGEMENT</u>**
 
 Interdisciplinary research across <u>Urban Planning </u>• <u>Governance</u> • <u>Environmental Sustainability</u> • <u>Climate Change</u> • <u>Environmental Justice</u> • <u>Resilience</u>
