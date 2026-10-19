@@ -130,17 +130,23 @@ Superviser: Alireza Ghahari
 
 ---
 
+
 ## Service Activity
-**Secretary – Scientific Association of Urban Planning Engineering**, National Elites Foundation-Iran (April 2026 – Oct 2026)  
-- Coordinated scientific events, workshops, and educational programs.
-- Facilitated collaboration among students, researchers, and faculty members.
-- Supported research activities and programs under the National Elites Foundation.	
- 
-**Member of students’ scientific association of urban management**, University of Tehran (Oct 2022 – Aug 2024)  
-- Assist in the coordination of community outreach programs aimed at raising awareness of urban issues and the importance of sustainable future.
-- Collaboration with faculty members about the recent problems of urbanism and urban management.
-- Participating in organizing and promoting academic events and workshops.
- 
+
+### **Secretary** — Scientific Association of Urban Planning Engineering, National Elites Foundation, Iran *Apr 2026 – Oct 2026*
+
+- Coordinated scientific and educational activities related to urban planning and urban development.
+- Supported the planning and organization of academic events, workshops, and educational programmes for students and early-career researchers.
+- Facilitated communication and collaboration among students, researchers, and academic staff to support knowledge exchange and professional engagement.
+- Contributed to the coordination of research-oriented initiatives and activities under the National Elites Foundation.
+- Supported initiatives aimed at strengthening academic participation and promoting knowledge sharing within the urban planning community.
+
+### **Member** — Students’ Scientific Association of Urban Management, University of Tehran *Oct 2022 – Aug 2024*
+
+- Participated in academic and scientific activities related to urban management, planning, and sustainable urban development.
+- Collaborated with fellow students and faculty members in supporting academic events, workshops, and educational programmes.
+- Assisted in coordinating student-oriented initiatives and activities that encouraged academic engagement and knowledge exchange.
+- Contributed to the promotion of research activities and the dissemination of knowledge within the university community.
 
 ---
 
