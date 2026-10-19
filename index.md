@@ -17,6 +17,18 @@ Urban Expert & GIS Specialist at Rah Shahr · Tehran, Iran
 
 ---
 
+## About Me
+
+I am an **Urban Development Management graduate from the University of Tehran** with an interdisciplinary background in urban planning, environmental governance, GIS, and spatial data analysis. My academic and professional work focuses on understanding how urban decision-making, institutional arrangements, and development processes shape environmental outcomes and urban sustainability.
+
+My research experience includes investigating urban management and environmental justice in Iran, with a particular focus on the Miankaleh Petrochemical Project. Through document and legal analysis, semi-structured interviews, and qualitative content and thematic analysis, I examined institutional responsibilities, stakeholder interests, public participation, and the long-term environmental and socio-economic implications of development decisions. My research has also addressed urban environmental challenges, including urban resilience, land-surface analysis, and sustainable urban development.
+
+Alongside my academic research, I have contributed to applied urban and environmental projects involving **GIS, spatial analysis, and decision-support methods**. I currently work as an **Urban Expert & GIS Specialist at Rah Shahr**, where I contribute to urban planning and environmental management projects through geospatial analysis, mapping, technical reporting, and research. My previous experience also includes research on urban runoff management, water treatment, and water recycling, as well as teaching assistance at the University of Tehran.
+
+My methodological toolkit combines **qualitative and quantitative research, GIS-based spatial analysis, and data analytics**, supported by tools such as QGIS, MAXQDA, R, and Python. I am particularly interested in integrating spatial and empirical evidence with urban governance and environmental research to support more informed, equitable, and sustainable planning decisions.
+
+---
+
 ## Research Interests
 **<u>URBAN PLANNING & MANAGEMENT</u>**
 
