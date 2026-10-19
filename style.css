@@ -1,5 +1,10 @@
 
-@import url('https://rsms.me/inter/inter.css');
+---
+---
+
+@import "{{ site.theme }}";
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
 
 body {
   font-family: 'Inter', sans-serif;
@@ -14,5 +19,5 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 strong, b {
-  font-weight: 650;
+  font-weight: 700;
 }
