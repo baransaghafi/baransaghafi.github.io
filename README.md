@@ -1,2 +1,2 @@
 # baransaghafi.github.io
-my CV site
+my website
