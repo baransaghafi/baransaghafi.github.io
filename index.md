@@ -226,7 +226,7 @@ Superviser: Alireza Ghahari
 ## Languages
 - English — Full Professional Proficiency (**IELTS 6.5**)  
 - Persian — Native
-- France — Basic  
+- French — Basic  
 
 ---
 
